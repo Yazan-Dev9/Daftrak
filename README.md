@@ -2,7 +2,7 @@
 # Daftark - Store Management Software
 # دفترك - برنامج إدارة المحل  
 
-[![License](https://img.shields.io/badge/license-Commercial-blue)](LICENSE)
+[![License](https://img.shields.io/badge/license-Commercial-blue)](LICENSE.md)
 
 ---
 
