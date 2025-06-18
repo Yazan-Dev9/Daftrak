@@ -1,3 +1,6 @@
+# from utils.crud import get_users
+
+
 def initialize_data():
     """
     Initialize the data used in the application.
